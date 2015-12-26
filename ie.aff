@@ -1,0 +1,121 @@
+# Occidental (Interlingue)
+# v0.01
+# 
+# Copyright 2015 Smirnova O. I.
+# 
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+# 
+#     http://www.apache.org/licenses/LICENSE-2.0
+# 
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+
+SET UTF-8
+
+WORDCHARS -
+TRY abcdefghijlmnopqrstuvxyzáéíóú
+
+DONOTSUGGEST !
+
+BREAK 1
+BREAK -
+
+NOSPLITSUGS
+COMPOUNDMIN 3
+#COMPOUNDFLAG c
+COMPOUNDBEGIN a
+COMPOUNDEND b
+ONLYINCOMPOUND c
+COMPOUNDPERMITFLAG d
+
+ICONV 4
+ICONV à á
+ICONV ì í
+ICONV ﬁ fi
+ICONV ﬂ fl
+
+REP 3
+REP á a
+REP á à
+REP ín ^in
+
+MAP 6
+MAP aá
+MAP eé
+MAP iíy
+MAP oó
+MAP uú
+MAP t(th)
+
+PFX N Y 1
+PFX N 0 ín
+
+SFX A Y 3
+SFX A 0 s  [aeiou]
+SFX A 0 i  [^aeiou]
+SFX A 0 is [^aeiou]
+
+SFX E Y 2
+SFX E 0 ssim/M  i
+SFX E 0 issim/M [^i]
+
+SFX H Y 13
+SFX H 0 o  [^eo]
+SFX H 0 os [^eo]
+SFX H 0 a  [^eo]
+SFX H 0 as [^eo]
+SFX H 0 e  [^eo]
+SFX H 0 es [^eo]
+SFX H 0 s  o
+SFX H e o
+SFX H e os
+SFX H e a
+SFX H e as
+SFX H o a
+SFX H o as
+
+SFX M Y 2
+SFX M 0 men
+SFX M 0 imen [^i]
+
+SFX S Y 3
+SFX S 0 s  [aeioucgkmáéíóú]
+SFX S 0 es [^aeiouáíóú]
+SFX S 0 e  [^aeiouáíóú]
+
+SFX V Y 9
+SFX V r 0
+SFX V r t/HM
+SFX V r nt   [^i]r
+SFX V r nte  [^i]r
+SFX V r ntes [^i]r
+SFX V r ent   ir
+SFX V r ente  ir
+SFX V r entes ir
+SFX V r ye
+
+SFX C Y 8
+SFC C 0 esim [^i]
+SFC C 0 esim ri
+SFC C i esim ci
+SFC C 0 plic [iu]
+SFC C 0 uplic [^iu]
+SFC C 0 ene/S [^i]
+SFC C 0 ene/S ri
+SFC C i ene/S ci
+
+SFX X Y 8
+SFX X e 0/cd e
+SFX X o 0/cd o
+SFX X a 0/cd a
+SFX X er 0/cd er
+SFX X e -/cd e
+SFX X o -/cd o
+SFX X a -/cd a
+SFX X er -/cd er
+

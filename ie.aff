@@ -18,7 +18,7 @@
 SET UTF-8
 
 WORDCHARS -
-TRY abcdefghijlmnopqrstuvxyzáéíóú
+TRY abcdefghijlmnopqrstuvxyzáéíóúöüäçčšžÍ
 
 DONOTSUGGEST !
 
@@ -33,9 +33,10 @@ COMPOUNDEND b
 ONLYINCOMPOUND c
 COMPOUNDPERMITFLAG d
 
-ICONV 4
+ICONV 5
 ICONV à á
 ICONV ì í
+ICONV è é
 ICONV ﬁ fi
 ICONV ﬂ fl
 
@@ -89,12 +90,12 @@ SFX S 0 es [^aeiouáíóú]
 SFX S 0 e  [^aeiouáíóú]
 
 SFX V Y 9
-SFX V r 0
+SFX V r 0/d
 SFX V r t/HM
-SFX V r nt   [^i]r
+SFX V r nt/M [^i]r
 SFX V r nte  [^i]r
 SFX V r ntes [^i]r
-SFX V r ent   ir
+SFX V r ent/M ir
 SFX V r ente  ir
 SFX V r entes ir
 SFX V r ye

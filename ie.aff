@@ -56,6 +56,9 @@ MAP t(th)
 PFX N Y 1
 PFX N 0 ín
 
+PFX I Y 1
+PFX I i í
+
 SFX A Y 3
 SFX A 0 s  [aeiou]
 SFX A 0 i  [^aeiou]

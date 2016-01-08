@@ -113,13 +113,15 @@ SFC C 0 ene/S [^i]
 SFC C 0 ene/S ri
 SFC C i ene/S ci
 
-SFX X Y 8
+SFX X Y 10
 SFX X e 0/cd e
 SFX X o 0/cd o
 SFX X a 0/cd a
+SFX X r 0/cd ar
 SFX X er 0/cd er
 SFX X e -/cd e
 SFX X o -/cd o
 SFX X a -/cd a
+SFX X r -/cd ar
 SFX X er -/cd er
 

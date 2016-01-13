@@ -75,7 +75,7 @@ SFX H 0 a  [^eo]
 SFX H 0 as [^eo]
 SFX H 0 e  [^eo]
 SFX H 0 es [^eo]
-SFX H 0 s  o
+SFX H 0 s  [oe]
 SFX H e o
 SFX H e os
 SFX H e a
@@ -92,9 +92,10 @@ SFX S 0 s  [aeioucgkmáéíóú]
 SFX S 0 es [^aeiouáíóú]
 SFX S 0 e  [^aeiouáíóú]
 
-SFX V Y 9
+SFX V Y 10
 SFX V r 0/d
 SFX V r t/HM
+SFX V r s r		# §87
 SFX V r nt/M [^i]r
 SFX V r nte  [^i]r
 SFX V r ntes [^i]r
@@ -103,7 +104,8 @@ SFX V r ente  ir
 SFX V r entes ir
 SFX V r ye
 
-SFX C Y 8
+SFX C Y 9
+SFX C 0 i ant
 SFC C 0 esim [^i]
 SFC C 0 esim ri
 SFC C i esim ci

@@ -174,3 +174,14 @@ SFX O r  tione  [ai]r
 SFX O r  tiones [ai]r
 SFX O er ione   [st]er
 SFX O er iones  [st]er
+
+SFX R Y 4
+SFX R r  tor/S [ai]r
+SFX R r  tori  [ai]r
+SFX R er or/S  [st]er
+SFX R er ori   [st]er
+
+SFX L Y 3
+SFX L 0 l/M  a
+SFX L 0 al/M [^ae]
+SFX L e al/M e

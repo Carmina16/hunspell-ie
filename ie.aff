@@ -45,13 +45,14 @@ REP á a
 REP á à
 REP ín ^in
 
-MAP 6
+MAP 7
 MAP aá
 MAP eé
 MAP iíy
 MAP oó
 MAP uú
 MAP t(th)
+MAP c(ch)k
 
 PFX N Y 4
 PFX N 0 ín
@@ -148,38 +149,48 @@ SFX T Y 8
 SFX T me t   sme
 SFX T me te  sme
 SFX T me tes sme
-SFX T me tic sme
+SFX T me tic/M sme
 SFX T m  t   sm
 SFX T m  te  sm
 SFX T m  tes sm
-SFX T m  tic sm
+SFX T m  tic/M sm
 
 SFX Q Y 9
-SFX Q 0  ic   [^aeox]
-SFX Q e  c    ie
-SFX Q e  ic   [^si]e
-SFX Q o  ic   o
-SFX Q se tic  [^s]se
-SFX Q xe ctic xe
-SFX Q x  ctic x
-SFX Q 0  tic  ma
-SFX Q a  0    ica
+SFX Q 0  ic/M   [^aeox]
+SFX Q e  c/M    ie
+SFX Q e  ic/M   [^si]e
+SFX Q o  ic/M   o
+SFX Q se tic/M  [^s]se
+SFX Q xe ctic/M xe
+SFX Q x  ctic/M x
+SFX Q 0  tic/M  ma
+SFX Q a  0/M    ica
 
-SFX Z Y 2
+SFX Z Y 4
 SFX Z r  tion [ai]r
 SFX Z er ion  [st]er
+SFX Z der sion der
+SFX Z rer sion rer
 
-SFX O Y 4
+SFX O Y 8
 SFX O r  tione  [ai]r
 SFX O r  tiones [ai]r
 SFX O er ione   [st]er
 SFX O er iones  [st]er
+SFX O der sione  der
+SFX O der siones der
+SFX O rer sione  rer
+SFX O rer siones rer
 
-SFX R Y 4
+SFX R Y 8
 SFX R r  tor/S [ai]r
 SFX R r  tori  [ai]r
 SFX R er or/S  [st]er
 SFX R er ori   [st]er
+SFX R der sor/S der
+SFX R der sori  der
+SFX R rer sor/S rer
+SFX R rer sori  rer
 
 SFX L Y 3
 SFX L 0 l/M  a

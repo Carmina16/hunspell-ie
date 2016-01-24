@@ -96,16 +96,12 @@ SFX S 0 s  [aeioucgkmáéíóú]
 SFX S 0 es [^aeiouáíóú]
 SFX S 0 e  [^aeiouáíóú]
 
-SFX V Y 10
+SFX V Y 6
 SFX V r 0/d
 SFX V r t/HMN
 SFX V r s r		# §87
-SFX V r nt/M [^i]r
-SFX V r nte  [^i]r
-SFX V r ntes [^i]r
-SFX V r ent/M ir
-SFX V r ente  ir
-SFX V r entes ir
+SFX V r nt/HMN [^i]r
+SFX V r ent/HMN ir
 SFX V r ye
 
 SFX C Y 9

@@ -40,10 +40,13 @@ ICONV è é
 ICONV ﬁ fi
 ICONV ﬂ fl
 
-REP 3
+REP 6
 REP á a
 REP á à
 REP ín ^in
+REP ín ^ne
+REP men li$
+REP isme ism$
 
 MAP 7
 MAP aá

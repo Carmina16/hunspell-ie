@@ -1,12 +1,11 @@
 UTF-8 
 # Interlingue (Occidental) 
-# by Smirnova O. I., 2015 
+# by Smirnova O. I., 2015, 2016 
  
 a1b
 a2br
 a1c
-a3ct
-1ad
+a3c1t
 a1f
 a1g
 a2gr
@@ -19,7 +18,6 @@ a1p
 a1r
 a1t
 a2t1r
-a1ud
 a1v
 a1x
 a1y
@@ -33,6 +31,7 @@ by1
 1ca
 2c1c
 1ce
+ci1e
 2c1k
 c1lo
 2c1s
@@ -49,16 +48,16 @@ e1d
 e1e
 e1f
 e1h
-e1le
+e1le3
 e1li
 e1m
 e1o
 ep1r
 e1q
 e1r
-2ere
 e2sa
 es2to
+es1t
 e1v
 e1z
 é1x
@@ -66,24 +65,26 @@ e1z
 f1c
 fun3
 2g1g
-2gna
+gi1
+2g1na
 g1re
 1gu
 h1m
 hre1
 hy1
 hy2t
-i1a
-i2ac
+i1an
 i1b
 i1c
 i1d
-i1e
+i2e1r
+i1es
 i1f
 i1g
+i1li
 i1lo
 i1m
-i1o
+i1o1g
 i1p
 i1q
 i1ra
@@ -100,7 +101,7 @@ l1b
 2l1c
 2l1d
 le3
-lec2
+le1c2
 l1h
 2lk
 2l1l
@@ -128,7 +129,7 @@ n1m
 2n1n
 n1p
 2n1s2
-n2sp
+n2s1p
 2n1t
 1nu
 2n1v
@@ -156,7 +157,7 @@ o1y
 2p1p
 2p1s
 2p1t
-rac2
+ra1c2
 2r1b
 2r1c
 2r1d
@@ -169,8 +170,9 @@ rac2
 2r1r
 2r1s
 2r1t
+ry1
 1sa
-s1ag
+s1a1g
 2s1c
 s2ci
 1se
@@ -182,14 +184,14 @@ s2ph
 s1q
 2s1s
 s1t
-su1a
 2t1b
 2td
 1te
-2terc
+2te2r1c
+te1r
 1th
-2thm
-2tiq
+2th1m
+2ti1q
 2t1m
 2t1n
 1to
@@ -202,15 +204,17 @@ u1f
 u1g
 u1l
 u1m
-un1a
-unc2
-u1o
+u1n1a
+u2n1c2
+u1o1c
 up1l
 u1r
 u1t
 u1v
+u1x
 u1y
 ú1d
+vi2a
 x1c
 x1p
 x1t
@@ -220,5 +224,4 @@ y1l
 y1n
 y1r
 y1s
-y2st
-zu1
+y2s1t

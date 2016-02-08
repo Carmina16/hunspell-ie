@@ -20,7 +20,7 @@ SET UTF-8
 WORDCHARS -
 TRY abcdefghijlmnopqrstuvxyzáéíóúöüäçčšžÍ
 
-DONOTSUGGEST !
+NOSUGGEST !
 
 BREAK 1
 BREAK -
@@ -167,15 +167,15 @@ SFX Q a  0/M    ica
 
 SFX Z Y 4
 SFX Z r  tion [ai]r
-SFX Z er ion  [st]er
+SFX Z er ion  [stx]er
 SFX Z der sion der
 SFX Z rer sion rer
 
 SFX O Y 8
 SFX O r  tione  [ai]r
 SFX O r  tiones [ai]r
-SFX O er ione   [st]er
-SFX O er iones  [st]er
+SFX O er ione   [stx]er
+SFX O er iones  [stx]er
 SFX O der sione  der
 SFX O der siones der
 SFX O rer sione  rer

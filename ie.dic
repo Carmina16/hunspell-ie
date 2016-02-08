@@ -272,7 +272,7 @@ actressa/S
 actu/S
 actual/MS
 actualisar/V
-actualitá
+actualitá/S
 actuarie/H
 acuchament
 acuchar/V
@@ -306,22 +306,22 @@ Adam
 adamant
 adaptar/VBZO
 adavan
+adclovar/V
 adcluder/V
 adcurrer/V
 addendum
 addí/!
 addir/VZO
-additional
+additional/M
 additiv
-adducter/V
+adducter/VZ
 adenite
 adept/S
 adequat/N
 adflancar/V
-adherent/S
 adherentie/S
 adherer/VZ
-adhesiv
+adhesiv/S
 adinfra
 adíar/V
 adío
@@ -373,7 +373,7 @@ adportar/V
 adressar/VZO
 adressarium/S
 adressate/S
-adresse/S
+adresse/SXa
 adressée/S
 Adrian
 Adrianopol
@@ -538,6 +538,7 @@ agnoscion
 agoniar/V
 agonie/Q
 agonisar/V
+agraffage
 agraffar/V
 agraffe
 agrandar/V
@@ -730,9 +731,8 @@ alquó
 alrun/S
 Alsatia
 alsatian/AH
-alt/ME
+alt/AME
 altar/S
-altare
 altea/S
 alterar/VZORB
 altercation/S
@@ -773,6 +773,7 @@ am
 amabil/M
 amabilitá
 amagrar/VZ
+amaladar/VZ
 amalgam/S
 amalgamar/VZ
 amansar/VZ
@@ -950,11 +951,11 @@ anete/S
 anethe/S
 aneurisme
 anexe/S
-anexer/V
-anexion/S
+anexer/VZO
 ángel/SQ
 ángelesc
 angina/S
+angiogenese
 angles/ASH
 anglés/ASH!
 Anglia
@@ -1005,10 +1006,10 @@ annamesi
 annamite/H
 annelari
 annex/S
-annexer/V
-annexion/S
+annexer/VZO
 annihilar/VZ
 annihilativ
+anniversar/A
 anniversarie/S
 annotar/VZO
 annu/S
@@ -1206,9 +1207,8 @@ apostasiar/V
 apostasie
 apostate/SQ
 aposteriori
-apóstol/S
+apóstol/SQ
 apóstolatu
-apostolic
 apostrof/S
 apostrofar/V
 apostroph/S!
@@ -1389,6 +1389,7 @@ archiepiscopia/S
 archifripon/S
 archipelago/S
 architecte/H
+architectonic
 architectura/S
 architectural
 architrave/S
@@ -1417,7 +1418,8 @@ arendar/V
 areometre/S
 areopage
 arestar/VZO
-areste/S
+arest/S
+argentar/V
 argente/a
 argenteríe/S
 argentero/S
@@ -1680,6 +1682,7 @@ atachament/S
 atachar/V
 ataché/S
 ataraxie
+atardar/V
 atavisme/S
 atavistic
 atavo/S
@@ -1713,6 +1716,7 @@ atingibil/N
 ation/Sb
 atipic
 atitude/S
+Atlanta
 atlante/S
 Atlantic
 atlas/S
@@ -1753,7 +1757,7 @@ atrofie
 atropine
 atruppar/V
 attaca
-attaccar/V
+attaccar/VB
 attachament
 attachar/V
 attaché/S
@@ -2138,6 +2142,7 @@ barbarisar/V
 barbarism/S
 barbat
 barbe/S
+barbecue/S
 barbel/!
 barbería/S
 barbero/S
@@ -2283,7 +2288,7 @@ Belfegor
 belfilio/H
 belfratre/S
 Belgia
-belgian
+belgian/AS
 belgic
 belgo/H
 bell/EHM
@@ -2300,6 +2305,7 @@ belvedere/S
 Belzebub
 bemoll/S
 bene/S
+benedí/!
 benedicite/S
 benedictin/H
 benedir/VZO
@@ -2348,10 +2354,10 @@ Bermudas
 Bern
 Bernau
 bernes/AH
+Bernhardt
 berus
-besa/S
 besan
-besar/V
+besar/VR
 besé
 besiga
 beson/S
@@ -2605,6 +2611,7 @@ bonvolent
 bonvolentie
 bonzo/S
 bookmaker/S
+boom/S
 bor
 borago
 borax
@@ -2747,11 +2754,9 @@ bretelle/S
 breton/H
 Bretonia
 bretonian/H
-brev/S
+brev/SAM
 brevetar/V
-brevetate
 brevete/S
-brevi/A
 brevitá
 brevitarium/S
 bridar/V
@@ -2977,7 +2982,7 @@ cabilmen
 cabine/S
 cabinette/S
 cablar/V
-cable/S
+cable/Sb
 cablogramme/S
 cabotage
 cabotar/V
@@ -3200,6 +3205,7 @@ cancelleríe
 cancellería/S
 cancellero/H
 cáncer/SQ
+canceral
 Cancuen
 candare/S
 candel/S
@@ -3521,6 +3527,7 @@ cartonage
 cartonar/V
 cartonero/S
 cartoniere
+cartoteca/Sb
 cartuche/S
 cartuchiere/S
 cartusia
@@ -3950,6 +3957,7 @@ chifonar/V
 chifonallia
 chifonard/S
 chifonero/S
+chihuahua/S
 chilan/H
 Chile
 chilean/AH
@@ -3991,6 +3999,7 @@ chocolate/S
 choferar/V
 chofero/S
 chólera
+cholesterol/!
 chomar/V
 chomage
 chomero/S
@@ -4191,7 +4200,7 @@ citroniero/S
 City
 cive/SQ
 civil
-civilisar/VZO
+civilisar/VZOR
 civisme/S
 civitá/S
 civité/S
@@ -4267,8 +4276,8 @@ clima/SQ
 climat/S
 climacterium/S
 climaterium/S
-climatisar/V
-climatolog/SQ
+climatisar/VZO
+climatolog/HQ
 climatologie
 climbar/VR
 climbere/S
@@ -4276,7 +4285,7 @@ clinar/V
 clincar/V
 clinc/S
 cline/S
-clinic/S
+clinic/SM
 clinica/SL
 Clinton
 clípper/S
@@ -4431,6 +4440,7 @@ colere/SQ
 colerico/S
 colerine
 colerosi
+colesterol
 colibrí/S
 colica/S
 colider/VZO
@@ -4539,6 +4549,7 @@ comedon
 comemorar/VZO
 comemorativ
 comenciar/V
+comencie/S
 comendar/V
 comende/S
 comensar/V
@@ -4794,13 +4805,11 @@ conductivitá
 conduida/S
 conduir/V
 cone/SQ
-conecter/V
-conection/S
+conecter/VZOb
 conestable/S
 conex
-conexer/V
-conexion/S
-conexiv
+conexer/VZO!
+conexiv/!
 confecte/S
 confectería/S
 confectero/S
@@ -4841,6 +4850,7 @@ conform/MS
 conformabil
 conformar/VZO
 conformativ
+conformisme/Tb
 conformitá
 confratre/S
 confratrie/S
@@ -4906,11 +4916,10 @@ conligar/V
 conmanjante/S
 conmetter/V
 conmixtet
-connecter/S!
+connecter/SVZOb!
 connection/S!
 connex/S!
-connexer/V!
-connexion/S!
+connexer/VZO!
 connexiv/!
 connivent
 conniventiar/V
@@ -4927,6 +4936,7 @@ conossentar/V
 conossentie/S
 conosser/VSB
 conossero/S
+conparlar/V
 conpatre/S
 conpatriot/S
 conportar/V
@@ -5020,6 +5030,7 @@ consumar/VZR
 consum/S
 consumpter/VZO
 consumptiv
+contabilitá
 contact/S
 contacter/V
 contagiar/V
@@ -5191,7 +5202,7 @@ Copenhagen
 coperir/V
 copernican
 copette/S
-copiar/VR
+copiar/VRb
 copiarium/S
 copiativ
 copie/SL
@@ -5237,6 +5248,7 @@ cord/Sb
 cordel/S
 corderíe
 cordero/S
+cordette/S
 cordiac
 cordial/M
 cordialitá
@@ -5250,7 +5262,7 @@ corect/M
 corecter/VBZOR
 corectess/S
 corectiv
-corectura/S
+corectura/SXa
 coregon/S
 corelater/VZO
 corelativ/S
@@ -5316,7 +5328,7 @@ córporar/V
 córporation/S
 corporcussine
 corporic
-corpulent
+corpulent/S
 corpulentie
 corpus/!
 corpúscul/S!
@@ -5463,6 +5475,7 @@ crayonar/V
 crayonist/S
 crear/VZOR
 creativ
+creativitá
 creatura/S
 credaci
 crede/S
@@ -5585,8 +5598,7 @@ Cristmas
 Cristo/Xa
 crit
 criterie/S
-crític/H
-critica/SL
+critic/HL
 criticabil
 criticachar/V
 criticar/V
@@ -5898,7 +5910,7 @@ Dante
 danubian/H
 Danubio
 daphné/S!
-dar/V
+dar/Vb
 Dardanelles
 darde/S
 Das
@@ -6393,6 +6405,7 @@ descomposir/VZ
 desconcordie
 desconsiliar/V
 descontent/S
+descontentar/V
 descorage
 descorageament
 descoragear/V
@@ -6441,6 +6454,7 @@ desfelicie
 desfide/S
 desfidentie/S
 desfider/V
+desfigurar/VZ
 desflorar/VZO
 desflorear/V
 desforestar/VZO
@@ -6619,6 +6633,7 @@ detra
 detracter/VZOR
 detractiv
 detraguarde/S
+detraher/V
 detriment/SL
 detrimentar/V
 detronar/V
@@ -6642,6 +6657,7 @@ devenir/V
 deventie/S
 dever/V
 deverbal
+devernissar/V
 deversuore/S
 devestir/V
 deviar/VZOR
@@ -6741,6 +6757,7 @@ dietar/VA
 diete/SQ
 dietica
 dietico
+dietist/S
 Dieudonné
 dieze/S
 difamaci
@@ -7083,6 +7100,7 @@ domen/S
 doméstic/H
 domestical
 domesticar/VZB
+domette/S
 domiciliar/V
 domicilie/S
 dominaci
@@ -7096,6 +7114,7 @@ dómino/H
 dominó/S
 domitabil
 domitar/VZ
+domiter/H
 don/S
 donaci
 donar/VZOR
@@ -7143,7 +7162,7 @@ dragonade
 dragones/AS
 drall
 drama/S
-dramatic/M
+dramatic/MH
 dramaticar/V
 dramatisar/VZ
 dramaturg/H
@@ -7284,7 +7303,7 @@ eau
 eben
 ebenist/S
 ebonite
-ebri
+ebri/M
 ebriar/V
 ebrie/S
 ebrietá
@@ -7376,7 +7395,7 @@ effervescentie
 effervescer/V
 efficaci
 efficacitá
-efficient
+efficient/M
 efficientie/S
 effigie/S
 effilat
@@ -7391,7 +7410,7 @@ effuser/VZOR
 effusiv
 eficaci
 eficacitá
-eficient
+eficient/M
 eficientie/S
 efigie/S
 efilat
@@ -7455,6 +7474,7 @@ electrician/S
 electricitá
 electrificar/VZ
 electrisar/VZ
+electro/ac
 electrocuter/VZO
 electrode/S
 electroingeniero
@@ -7601,6 +7621,7 @@ endogen/A
 endoparasit/S
 endoplasma
 endoplasmose
+endorfine/S
 endosperma/S
 eneagon
 eneficientie
@@ -7613,7 +7634,7 @@ enervar/VZO
 enervatic
 English
 enigma/SQ
-enorm/AE
+enorm/AME
 enormitá
 enotere/S
 enothere/S
@@ -8016,8 +8037,7 @@ eviction
 evidentiar/V
 evidentie/S
 evider/V
-evitabil
-evitar/V
+evitar/VZB
 evitatoria/S
 evocar/VZOR
 evoluer/V
@@ -8062,7 +8082,7 @@ excerpte/S
 excerpter/VZO
 excess/S
 excession
-excessiv
+excessiv/M
 exchange/S
 exchangear/V
 exchangeament/S
@@ -8199,7 +8219,7 @@ explodette/S
 explorar/VZOR
 explorativ
 explosibil
-explosiv/S
+explosiv/SM
 explotar/VZR
 explotero/S
 expolvar/V
@@ -8246,7 +8266,7 @@ extensibilitá
 extensiv
 extenuar/VZ
 éxter
-exterior/SA
+exterior/SAM
 exteriorisar/V
 exterioritá/S
 exterland/S
@@ -8733,11 +8753,11 @@ filuore/S
 fin/AESs
 final/MS
 finalitá
-financial
+financiament
 financiar/VA
 financiario
 financiero/S
-financie/S
+financie/SL
 finder/S
 finesse/S
 finforgero/S
@@ -8816,15 +8836,15 @@ flautar/V
 flaute/S
 flautist/S
 flebite/S
+flebotomie/S
 flecha/S
 flechiere/S
 flecter/V
 flegma/SQ
 flegmon/S
-flexer/V
+flexer/VZO
 flexibil
 flexibilitá
-flexion/S
 flibustiero/S
 flicca/S
 flirtaci/A
@@ -9004,7 +9024,8 @@ fortirar/V
 fortis
 fortissimo
 fortun/S
-fortunat
+fortuna/S
+fortunat/N
 fortunosi/M
 forum/Sab
 fórum/Sab!
@@ -9239,6 +9260,7 @@ fucsia
 fudre/S!
 fuel
 fuga/S
+fuge
 fugiard/S
 fugida/S
 fugir/VR
@@ -9515,6 +9537,7 @@ gazelle/S
 gazette/S
 gazon/S
 gazonbed/S
+gecko/S
 gehenna
 geisha/S
 gela/S
@@ -9576,8 +9599,7 @@ gentilmann/S
 gentleman/S!
 genú/S
 genual
-genuflexer/V
-genuflexion/S
+genuflexer/VZO
 genuflexuore/S
 genuin
 genuinitá
@@ -9721,8 +9743,7 @@ glissid
 glissiere/S
 glissuore/S
 glizirrize
-glob/S
-global/A
+glob/SL
 globalisar/VZO
 globiform
 globoid
@@ -9788,6 +9809,8 @@ gondolero/S
 gong/S
 goniometre/SQ
 goniometrie
+gonioscop/S
+gonioscopie/Q
 gonococ/S
 gonococco/S
 gonoréa
@@ -9818,22 +9841,17 @@ gradu/S
 gradual/M
 graduar/VZO
 grafia/bc
-grafic/Sb
-grafica/S
+grafic/HLb
 grafisme
 grafite
 grafologie
 grafolog/HQ
 grafometre/S
 grámine/S
-gramatic
-gramatica/S
-gramatical/M
+gramatica/SQL
 gramatico/S
 gramm/Sb
-grammatic
-grammatica/S
-grammatical/M
+grammatica/SQL
 grammatico/S
 grammophon/S!
 grammofon/S
@@ -9874,7 +9892,7 @@ gráphite/!
 gráphologie/!
 graphologo/S!
 grappe/S
-grass/S
+grass/AS
 grassar/V
 grassosi
 grat/S
@@ -9892,7 +9910,7 @@ grattura/S
 gratuit/M
 gratuitá
 gratular/VZOR
-grav/E
+grav/AME
 gravelle/S
 graveol
 graver/Vb
@@ -9967,9 +9985,9 @@ grossieri
 grossieritá
 grossist/S
 grossore/S
-grotesc
-grotesca
-grotte/S
+grote/SL!
+grotesc/AH
+grotte/SL
 grue/S
 gruel/S
 gruniaci
@@ -10058,6 +10076,7 @@ gurme/S
 gust/S
 gustar/V
 gustosi
+Gutenberg
 guttar/V
 gutte/S
 guttear/V
@@ -10148,6 +10167,7 @@ hangare/S
 Hannibal
 Hansea
 hanseatic
+haplo/ac
 happar/V
 har/V
 harakiri
@@ -11245,12 +11265,10 @@ inflage
 inflament/S
 inflation/S
 inflatura/S
-inflexer/V
+inflexer/VZO
 ínflexibil
 inflexibilitá/I
-inflexion/S
-inflicter/V
-infliction/S
+inflicter/VZO
 inflorescentie
 influentiar/V
 influentie/SL
@@ -11266,7 +11284,6 @@ informativ
 infornar/V
 infortiar/VZ
 ínfortun/S
-ínfortunat
 ínfortunosi
 infossar/V
 infra
@@ -11354,7 +11371,7 @@ ininteligibilitá/I
 ínintelligibil
 íninterconciliabil
 íninterruption
-injecter/SZOR
+injecter/VSZOR
 injicer/V
 injoyar/V
 injunge
@@ -11431,6 +11448,7 @@ innoblar/V
 ínnocivitá
 ínnominabil
 innovar/VZOR
+innovativ/A
 innubar/V
 ínnumerabil
 ínobedient
@@ -11580,11 +11598,9 @@ inregistrar/VZO
 inregularitá/SI
 ínreligios/A
 inreligiositá/I
-ínremovibil
-inremovibilitá/I
 ínreparabil
 ínreprochabil
-ínresistibil
+ínresistibil/M
 ínresolut
 ínrespectosi
 ínresponsabil
@@ -11779,7 +11795,7 @@ intenter/V
 intention/SL
 intentionat/M
 ínter
-inter/!
+inter/a!
 interacte/S
 interacter/V
 interaction/S
@@ -11907,7 +11923,7 @@ intim/HE
 intimidar/VZ
 intimitá
 intippar/V
-intitular/V
+intitular/VZ
 íntolerabil
 íntolerant
 íntolerantie
@@ -12120,7 +12136,8 @@ italian/H
 iterar/VZO
 iterativ
 itinerarie/S
-iu
+IU
+IV
 ivor
 ivorin
 ixode/S
@@ -12232,7 +12249,7 @@ Jourdain
 jovedí/S
 jovial
 jovialitá
-joya/S
+joy/S
 joyada/S
 joyar/V
 joyosi/M
@@ -12380,6 +12397,7 @@ kimono/S
 kino/S
 kinoteatre/S
 kiosk/S
+Kipling
 kirio
 kirsch
 kist/S
@@ -12437,6 +12455,7 @@ labirinte/S
 labirintin
 labor/S
 laborachar/V
+laborache/S
 laboraci
 laborada
 laborar/VR
@@ -12709,7 +12728,7 @@ lemma/S
 lemming/S
 lemniscate/S
 lemur/S
-leni
+Lena
 Lenin
 Leningrad
 leninism/STb
@@ -12742,6 +12761,7 @@ léporin
 lepra
 lepros/AH
 leprosoria/S
+leptin
 lesion/S
 Lessing
 letargic
@@ -12826,7 +12846,7 @@ librach/S
 libracherá
 librarium/S
 libration/S
-libre/S
+libre/Sb
 librería/S
 libreríe
 librero/S
@@ -12982,7 +13002,7 @@ litore/S
 litorne/S
 litote/S
 litre/Sb
-litt/AS
+litt/ASE
 litteral/M
 litterari
 litterat/H
@@ -13018,8 +13038,7 @@ lobelia/S
 lobette/S
 lobul/S
 lobulari
-loc/S
-local/S
+loc/SL
 localisar/VZO
 localitá
 locar/VZOR
@@ -13043,14 +13062,14 @@ loggia/S
 loggline/S
 logí/S
 logiament/S
-logiar/V
+logiar/Vb
 logic/MH
 lógic/!
 logical/M
 logiero/S
 logiment
 logist/S
-logistica
+logistica/Q
 logo/S
 logogramma/S
 logogrif/S
@@ -13058,6 +13077,7 @@ Lojban
 Lokotsch
 Lombardia
 lombardic/H
+Lomonosov
 London
 Londonés
 long/ME
@@ -13069,7 +13089,7 @@ longevitá
 longform/A
 longitá/S
 longitúdine/SL
-longore/S
+longore/Sb
 lontan/S
 lontanie/S
 loquaci
@@ -13329,6 +13349,7 @@ malachite
 malad/Sb
 malader/H
 maladie/S
+maladijament/S
 maladijar/V
 maladitá
 maladiv
@@ -13372,7 +13393,7 @@ malin
 malinitá
 malitá
 mallear/VB
-malleol
+malleol/S
 mallicurasse/S
 mallie/SXa
 Malmö
@@ -13411,6 +13432,7 @@ mancantie
 mancar/V
 manche/S
 manchette/S
+mandage/S
 mandar/V
 mandarine/S
 mandariniero/S
@@ -13490,7 +13512,7 @@ mantó/S
 manu/S
 manuabil
 manuade/S
-manual/S
+manual/SM
 manuar/VZ
 manuarticle/S
 manuel
@@ -13517,7 +13539,7 @@ marcantmen
 marcar/V
 marcha/SXb
 marchale/S
-marchar/V
+marchar/VB
 marchatu/S
 marchette/S
 marchtastant
@@ -13547,6 +13569,7 @@ márginar/V
 márgine/S
 margraviatu/S
 margravie/H
+Maria
 maria-balne/S
 Marianes
 Marie
@@ -13869,7 +13892,7 @@ menisco/S
 mense/S
 menstruar/VZO
 mensu/S
-mensual/S
+mensual/SM
 mensualitá
 mensura/S
 ment/SL
@@ -14144,7 +14167,7 @@ minus
 minuscul/S
 minute/S
 minution/S
-minutiosi
+minutiosi/M
 mio
 miocen
 miolog
@@ -14582,6 +14605,7 @@ moviment/S
 movimental
 Mozambique
 mozambiquan/S
+Mozart
 msr
 mu
 muc/S
@@ -14907,6 +14931,7 @@ nettette/S
 nettitá
 netto
 nettoproducte
+Neuchâtel
 neuralgie/Q
 neuralgite
 neurastenie/Q
@@ -15248,6 +15273,7 @@ obvie
 ocapi/S
 ocasion/SL
 ocasionar/V
+Occ
 occasion/SL
 occasionar/V
 occident/S
@@ -15350,6 +15376,7 @@ ogre/H
 ogressa/S
 oh
 ohé
+Ohio
 ohm
 ohmmetre/S
 old/H
@@ -15472,7 +15499,8 @@ optic/MH
 optica/L
 optico/S
 optim
-optimal
+optimal/M
+optimisar/VZOR
 optimisme/T
 optimum/S
 option/SL
@@ -15853,7 +15881,7 @@ papatu
 papavre/S
 papaye
 papayiero/S
-paper/Sa
+paper/SLa
 paperache/S
 paperachiere/S
 paperage
@@ -15952,7 +15980,7 @@ parentela
 parentes/S
 parentetic
 parenthes/S!
-parentitá
+parentitá/S
 parentité
 paretal
 parete/S
@@ -16149,7 +16177,7 @@ patrimonie/SL
 patrino/S
 patrinal
 patriot/SQ
-patriotisme
+patriotisme/b
 patristica
 patrologie
 patron/HL
@@ -16540,6 +16568,7 @@ pesantie/S
 pesantitá
 pesantore/S
 pesar/V
+peseta/S
 peso/S
 pessarie/S
 pessim
@@ -16987,6 +17016,7 @@ pleuronecte
 pleuronectide
 pleve/S
 plica/S
+plicage
 plicar/VB
 plinte/S
 pliocene/Q
@@ -17083,6 +17113,7 @@ polarisar/VZR
 polaritá
 polat
 polemica/SQL
+polemico/S
 polemisar/V
 poli/ac
 poliacril
@@ -17563,11 +17594,9 @@ principessa/S
 principie/SL
 principue
 print/S
-printa/S
 printage
-printar/VZOR
+printar/VZORB
 printarte
-printate/S
 printe/S
 printería/S
 printeríe
@@ -17693,12 +17722,12 @@ prognose/S
 prognostic
 prognosticar/VZO
 prognostico/S
-programma/SQ
+programma/SQab
 programmar/VBZR
 progress/S
 progresser/VZO
 progressisme/T
-progressiv
+progressiv/M
 progressori
 prohibir/V
 prohibition/S
@@ -17759,6 +17788,7 @@ pronunciamento
 pronunciation/S
 proocasion
 propagabil
+propaganda/!
 propagande/S
 propagandist/SQ
 propagar/VZOR
@@ -17766,6 +17796,8 @@ propagativ
 propedeutica/Q
 propeller/S
 propéller/S!
+prophet/SQ!
+prophetisar/V
 propó
 propolis
 proportion/SL
@@ -17840,7 +17872,6 @@ protoplasma/S
 prototip/S
 protoxide/S
 protozoe/S
-prova/S
 provar/V
 provenientie/S
 provenir/VP
@@ -17864,6 +17895,7 @@ proxenetisme
 proxim
 próxim/!
 proximitá
+proximité/S
 proximo/H
 prud/AH
 prudent/M
@@ -18059,6 +18091,7 @@ putral
 putrallia
 putrid
 putriditá
+putrifaction
 putrificar/VZ
 putrifient/S
 putrifientie
@@ -18098,6 +18131,7 @@ quakerisme
 quakero/S
 qual/MS
 qualcunc
+qualcvez
 qualificar/VZO
 qualitá/S
 qualitativ
@@ -18407,7 +18441,7 @@ ratificar/VZ
 ratine
 rating/Sab
 ration/SL
-rationalisar/V
+rationalisar/VZO
 rationalisme/T
 rationament
 rationar/V
@@ -18442,6 +18476,7 @@ reactiv/S
 reactivitá
 readmisser/VZ
 readopter/V
+reagentie/S
 real/Ma
 realegrar/V
 realgar/S
@@ -18606,8 +18641,7 @@ refftacle/S
 reflecter/VZOR
 reflectiv
 reflex/S
-reflexer/V
-reflexion/S
+reflexer/VZO
 reflexiv/S
 reflut/S
 reform/S
@@ -18759,7 +18793,7 @@ remora/S
 remorcar/VZR
 remorse/S
 remotion
-remover/V
+remover/VB
 remplazzabil
 remplazzament/S
 remplazzar/V
@@ -19021,9 +19055,10 @@ retuchero/S
 retuchist/S
 reuma/Q
 reumatisme/S
+reunificar/VZO
+reuniar/V
 reunion/S
-reunir/V
-reunition
+reunir/VZ
 rev/S
 reva/S
 revaci
@@ -19229,6 +19264,9 @@ robinete/S
 robinette/S
 robinia/S
 róbot/S
+robot/S!
+robotica/Q
+robotisar/VZ
 robust
 robustesse
 rocca/S
@@ -19245,6 +19283,7 @@ Rodesia
 rodinal
 rododéndron/S!
 rododendron/S
+Rodriguez
 rogation
 rol/S
 Roma
@@ -19351,10 +19390,10 @@ rudiment/SL
 rudimentari
 rudipelle/S
 ruditá
-rudon
+rudon/S
 ruf/S
-ruga/S
 rugar/V
+rugatri/A
 rugby
 rugida
 rugiment/S
@@ -19655,6 +19694,7 @@ sappero/S
 saprofite/S
 sarabande/S
 saracen/S
+Sarah
 sarc
 sarcasme
 sarcastic/S!
@@ -19744,7 +19784,7 @@ scafandre/S
 scafandriero/S
 scaferíe
 scafotage
-scafote/S
+scafot/S
 scala/S
 scalada/S
 scaladar/V
@@ -20418,8 +20458,7 @@ simplon/S
 simposium/S
 simptoma/SQ
 simsar
-simular/V
-simulation/S
+simular/VZOR
 simultan/M
 simultanitá
 sin
@@ -20538,7 +20577,7 @@ slamm/S
 slammfore/S
 slammiera/S
 slang/S
-slav/SQ
+slav/SQb
 slavisme/S
 slavo/H
 slif/S
@@ -20588,6 +20627,7 @@ societé/S
 socio/S
 sociolog/SHQ
 sociologie
+Sochi
 socle/S
 soda
 sodom/Q
@@ -20862,6 +20902,7 @@ sponsale/S
 sponsario/H
 sponsion/S
 sponse/H
+sponsor/S
 spontan/M
 spontanitá
 spor/S
@@ -21145,10 +21186,12 @@ stratosfere/S
 stratpetre/S
 strax
 strec/S
-strecar/V
+strecar/VZO
 strecette
 strecliga/S
 streptococ/S
+stress/S
+stressar/V
 strett/MS
 strettar/V
 strettrelvia/S
@@ -21212,7 +21255,7 @@ stupefaction
 stupefar/VZ
 stupend/S
 stuper/V
-stupid
+stupid/M
 stupiditá
 stupidon/S
 stupore
@@ -21321,6 +21364,7 @@ subsuol/S
 subtangente/S
 subtasse/S
 subtegment/S
+subtema/S
 subten/S
 subtener/VS
 subtention/S
@@ -21329,7 +21373,8 @@ subterfuge
 subterran/S
 subterrania
 subterrar/V
-subtil
+subthema/S!
+subtil/M
 subtilisar/VZ
 subtilitá
 subtracter/VZOR
@@ -21354,7 +21399,7 @@ suc/S!
 sucar/V
 succ/S
 succeder/V
-success/S
+success/SN
 successar/V
 succession/S
 successiv/M
@@ -21983,7 +22028,7 @@ televisor/S
 tellur
 tema/SQ
 tematica/S
-temerari
+temerar/AH
 temeraritá
 témino/S
 tempache
@@ -22181,6 +22226,7 @@ therapie/S
 thermal
 therme/S
 thermic
+thermidor/S
 these/S
 théta/S
 Thomas
@@ -22268,7 +22314,7 @@ tipmachine/S
 tipograf/SQ
 tipografie/S
 tipp-erra/S
-tippar/V
+tippar/VB
 tippist/H
 tipul/S
 tir/S
@@ -22594,7 +22640,7 @@ transpirar/VZ
 transplantar/VZ
 transponer/V
 transport/S
-transportar/V
+transportar/VZO
 transposir/VZO
 transprender/VZ
 transscrir/VZ
@@ -22603,7 +22649,7 @@ Transsilvania
 transsubstantiar/VZ
 Transvaal
 transvasar/V
-transversal
+transversal/S
 transversar/V
 transvestir/V
 trantran
@@ -22871,7 +22917,7 @@ tumescerie
 tumesse/S
 tumid
 tumiditá
-tumore/SL
+tumor/SL
 tumorosi
 tumul/S
 tumulari
@@ -23024,6 +23070,7 @@ ungulari
 uni
 uniar/V
 unic/ME
+unicate/S
 Unicode/a
 unicorn/S
 unicum/S
@@ -23088,6 +23135,7 @@ urethre/S
 uretre/S
 urgentie
 urger/V
+Uri
 urinar/VA
 urine/SL
 uriniere/S
@@ -23432,7 +23480,7 @@ versemblant/AS
 versemblantie
 versificar/VZOR
 versimil/M
-versimilitá
+versimilitá/S
 version/S
 verso/S
 versta/S
@@ -23644,6 +23692,7 @@ virament/S
 virar/V
 virginal
 vírgine/HS
+Virginia
 virginitá
 viril
 virilitá
@@ -23719,7 +23768,7 @@ vivachar/V
 vivaci
 vivacitá
 vivárium/S
-vive/S
+vive/SXa
 viventar/V
 viventie
 viver/V
@@ -23735,11 +23784,13 @@ vivisecter/VZ
 vivisectionist/S
 vivosi
 vizir/Sb
+Vladimir
 voca/S
 vocabul/S
 vocabularium/S
 vocal/SQ
 vocalisar/VZO
+vocalist/H
 vocar/VZO
 vocativ/S
 voce/S
@@ -23824,7 +23875,7 @@ vulgarisar/VZ
 vulgarisme/S
 vulgaritá
 Vulgata/S
-vulnerar/VBZ
+vulnerar/VBZO
 vulnerarie/S
 vúlnere/S
 vulnerosi
@@ -23867,6 +23918,7 @@ Werner
 west/La
 westeuropano
 Westfalia
+Westminster
 whisky
 whist
 wicket/S

@@ -26,7 +26,7 @@ BREAK 1
 BREAK -
 
 NOSPLITSUGS
-COMPOUNDMIN 3
+COMPOUNDMIN 2
 #COMPOUNDFLAG c
 COMPOUNDBEGIN a
 COMPOUNDEND b
@@ -66,10 +66,14 @@ PFX N 0 ir r
 PFX I Y 1
 PFX I i í
 
-SFX A Y 3
+SFX A Y 7
 SFX A 0 s  [aeiou]
-SFX A 0 i  [^aeiou]
-SFX A 0 is [^aeiou]
+SFX A 0 i  [^aeious]
+SFX A 0 is [^aeious]
+SFX A 0 i  [^é]s
+SFX A 0 is [^é]s
+SFX A és esi
+SFX A és esis
 
 SFX E Y 2
 SFX E 0 ssim/M  i

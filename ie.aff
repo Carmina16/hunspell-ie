@@ -113,9 +113,9 @@ SFX V r ye
 
 SFX C Y 9
 SFX C 0 i ant
-SFC C 0 esim [^i]
-SFC C 0 esim ri
-SFC C i esim ci
+SFC C 0 esim/MS [^i]
+SFC C 0 esim/MS ri
+SFC C i esim/MS ci
 SFC C 0 plic [iu]
 SFC C 0 uplic [^iu]
 SFC C 0 ene/S [^i]
@@ -199,3 +199,16 @@ SFX L Y 3
 SFX L 0 l/M  a
 SFX L 0 al/M [^ae]
 SFX L e al/M e
+
+SFX U Y 6
+SFX U 0 tte   e
+SFX U 0 ttes  e
+SFX U o ette  o
+SFX U o ettes o
+SFX U 0 ettes [^eo]
+SFX U 0 ettes [^eo]
+
+SFX F Y 2
+SFX F 0 essa
+SFX F 0 essas
+

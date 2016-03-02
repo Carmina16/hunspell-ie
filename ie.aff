@@ -18,7 +18,7 @@
 SET UTF-8
 
 WORDCHARS -
-TRY abcdefghijlmnopqrstuvxyzáéíóúöüäçčšžÍ
+TRY áéíeinatrsloucdmpvgfbhqxyjkóúzöüäçčšžÍ
 
 NOSUGGEST !
 
@@ -33,12 +33,14 @@ COMPOUNDEND b
 ONLYINCOMPOUND c
 COMPOUNDPERMITFLAG d
 
-ICONV 5
+ICONV 7
 ICONV à á
 ICONV ì í
 ICONV è é
 ICONV ﬁ fi
 ICONV ﬂ fl
+ICONV œ oe
+ICONV æ ae
 
 REP 6
 REP á a
@@ -49,8 +51,8 @@ REP men li$
 REP isme ism$
 
 MAP 7
-MAP aá
-MAP eé
+MAP aá(a')
+MAP eé(e')
 MAP iíy
 MAP oó
 MAP uú
@@ -101,7 +103,7 @@ SFX M 0 imen [^i]
 SFX S Y 3
 SFX S 0 s  [aeioucgkmáéíóú]
 SFX S 0 es [^aeiouáíóú]
-SFX S 0 e  [^aeiouáíóú]
+SFX S 0 e  [^aeiouáéíóú]
 
 SFX V Y 6
 SFX V r 0/d
@@ -205,10 +207,15 @@ SFX U 0 tte   e
 SFX U 0 ttes  e
 SFX U o ette  o
 SFX U o ettes o
-SFX U 0 ettes [^eo]
+SFX U 0 ette  [^eo]
 SFX U 0 ettes [^eo]
 
 SFX F Y 2
 SFX F 0 essa
 SFX F 0 essas
 
+SFX J Y 4
+SFX J 0 in [^eéo]
+SFX J e in e
+SFX J é in é
+SFX J o in o

@@ -105,13 +105,15 @@ SFX S 0 s  [aeioucgkmáéíóú]
 SFX S 0 es [^aeiouáíóú]
 SFX S 0 e  [^aeiouáéíóú]
 
-SFX V Y 6
+SFX V Y 8
 SFX V r 0/d
 SFX V r t/HMN
 SFX V r s r		# §87
 SFX V r nt/HMN [^i]r
 SFX V r ent/HMN ir
 SFX V r ye
+SFX V r nd/AS [^i]r
+SFX V r end/AS ir
 
 SFX C Y 9
 SFX C 0 i ant

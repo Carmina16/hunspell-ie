@@ -1,5 +1,5 @@
 # Occidental (Interlingue)
-# v0.02
+# v0.6
 # 
 # Copyright 2015, 2016 Smirnova O. I.
 # 
@@ -26,6 +26,7 @@ BREAK 1
 BREAK -
 
 NOSPLITSUGS
+KEEPCASE +
 COMPOUNDMIN 2
 #COMPOUNDFLAG c
 COMPOUNDBEGIN a
@@ -117,14 +118,14 @@ SFX V r end/AS ir
 
 SFX C Y 9
 SFX C 0 i ant
-SFC C 0 esim/MS [^i]
-SFC C 0 esim/MS ri
-SFC C i esim/MS ci
-SFC C 0 plic [iu]
-SFC C 0 uplic [^iu]
-SFC C 0 ene/S [^i]
-SFC C 0 ene/S ri
-SFC C i ene/S ci
+SFX C 0 esim/MS [^i]
+SFX C 0 esim/MS ri
+SFX C i esim/MS ci
+SFX C 0 plic [iu]
+SFX C 0 uplic [^iu]
+SFX C 0 ene/S [^i]
+SFX C 0 ene/S ri
+SFX C i ene/S ci
 
 SFX X Y 10
 SFX X e 0/cd e
@@ -173,15 +174,18 @@ SFX Q x  ctic/M x
 SFX Q 0  tic/M  ma
 SFX Q a  0/M    ica
 
-SFX Z Y 4
+SFX Z Y 5
 SFX Z r  tion [ai]r
+SFX Z er tion [aou]er
 SFX Z er ion  [stx]er
 SFX Z der sion der
 SFX Z rer sion rer
 
-SFX O Y 8
+SFX O Y 10
 SFX O r  tione  [ai]r
 SFX O r  tiones [ai]r
+SFX O er tione  [aeou]er
+SFX O er tiones [aeou]er
 SFX O er ione   [stx]er
 SFX O er iones  [stx]er
 SFX O der sione  der
@@ -189,9 +193,11 @@ SFX O der siones der
 SFX O rer sione  rer
 SFX O rer siones rer
 
-SFX R Y 8
+SFX R Y 10
 SFX R r  tor/S [ai]r
 SFX R r  tori  [ai]r
+SFX R er tor/S [aoeu]er
+SFX R er tori  [aoeu]er
 SFX R er or/S  [st]er
 SFX R er ori   [st]er
 SFX R der sor/S der
@@ -221,3 +227,91 @@ SFX J 0 in [^eéo]
 SFX J e in e
 SFX J é in é
 SFX J o in o
+
+PFX p Y 26
+PFX p A a A
+PFX p B b B
+PFX p C c C
+PFX p D c D
+PFX p E e E
+PFX p F f F
+PFX p G g G
+PFX p H h H
+PFX p I i I
+PFX p J j J
+PFX p K k K
+PFX p L l L
+PFX p M m M
+PFX p N n N
+PFX p O o O
+PFX p P p P
+PFX p Q q Q
+PFX p R r R
+PFX p S s S
+PFX p T t T
+PFX p U u U
+PFX p V v V
+PFX p W w W
+PFX p X x X
+PFX p Y y Y
+PFX p Z z Z
+
+SFX K Y 2
+SFX K 0 n/pAH  a
+SFX K 0 an/pAH [^a]
+
+SFX k Y 5
+SFX k 0 s/pAH  e
+SFX k a es/pAH a
+SFX k a és/p   a
+SFX k 0 es/pAH [^ae]
+SFX k 0 és/p   [^ae]
+
+SFX g Y 5
+SFX g r  ge/S  ar
+SFX g er age/S er
+SFX g 0  age/S [^ae]r
+SFX g 0  age/S [^er]
+SFX g e  age/S e
+
+SFX m Y 8
+SFX m r  ment/d   [ai]r
+SFX m r  mentes/d [ai]r
+SFX m r  ment/d   [^eu]er
+SFX m r  mentes/d [^eu]er
+SFX m er ment/d   [eu]er
+SFX m er mentes/d [eu]er
+SFX m 0  ment/d   [^r]
+SFX m 0  mentes/d [^r]
+
+SFX t Y 2
+SFX t 0 tá/S  i
+SFX t 0 itá/S [^i]
+
+SFX u Y 5
+SFX u r   tura/S [ai]r
+SFX u der sura/S der
+SFX u rer sura/S rer
+SFX u er  ura/S  [^draeou]er
+SFX u er  tura/S [aeou]er
+
+SFX v Y 5
+SFX v r   tiv/Md [ai]r
+SFX v der siv/Md der
+SFX v rer siv/Md rer
+SFX v er  iv/Md  [^draou]er
+SFX v er  tiv/Md [aou]er
+
+SFX w Y 5
+SFX w r   tiv/MS [ai]r
+SFX w der siv/MS der
+SFX w rer siv/MS rer
+SFX w er  iv/MS  [^draou]er
+SFX w er  tiv/MS [aou]er
+
+SFX z Y 5
+SFX z 0 osi/A [^aáeo]
+SFX z e osi/A e
+SFX z 0 si/A  o
+SFX z a osi/A a
+SFX z á osi/A á

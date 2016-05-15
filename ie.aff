@@ -61,13 +61,13 @@ MAP t(th)
 MAP c(ch)k
 
 PFX N Y 4
-PFX N 0 ín
+PFX N 0 ín .
 PFX N 0 im [mbp]
 PFX N 0 il l
 PFX N 0 ir r
 
 PFX I Y 1
-PFX I i í
+PFX I i í i
 
 SFX A Y 7
 SFX A 0 s  [aeiou]
@@ -75,8 +75,8 @@ SFX A 0 i  [^aeious]
 SFX A 0 is [^aeious]
 SFX A 0 i  [^é]s
 SFX A 0 is [^é]s
-SFX A és esi
-SFX A és esis
+SFX A és esi  és
+SFX A és esis és
 
 SFX E Y 2
 SFX E 0 ssim/M  i
@@ -90,15 +90,15 @@ SFX H 0 as [^eo]
 SFX H 0 e  [^eo]
 SFX H 0 es [^eo]
 SFX H 0 s  [oe]
-SFX H e o
-SFX H e os
-SFX H e a
-SFX H e as
-SFX H o a
-SFX H o as
+SFX H e o  e
+SFX H e os e
+SFX H e a  e
+SFX H e as e
+SFX H o a  o
+SFX H o as o
 
 SFX M Y 2
-SFX M 0 men
+SFX M 0 men  .
 SFX M 0 imen [^i]
 
 SFX S Y 3
@@ -107,21 +107,21 @@ SFX S 0 es [^aeiouáíóú]
 SFX S 0 e  [^aeiouáéíóú]
 
 SFX V Y 8
-SFX V r 0/d
-SFX V r t/HMN
+SFX V r 0/d    r
+SFX V r t/HMN  r
 SFX V r s r		# §87
-SFX V r nt/HMN [^i]r
+SFX V r nt/HMN  [^i]r
 SFX V r ent/HMN ir
-SFX V r ye
-SFX V r nd/AS [^i]r
+SFX V r ye     r
+SFX V r nd/AS  [^i]r
 SFX V r end/AS ir
 
 SFX C Y 9
-SFX C 0 i ant
+SFX C 0 i ant   i
 SFX C 0 esim/MS [^i]
 SFX C 0 esim/MS ri
 SFX C i esim/MS ci
-SFX C 0 plic [iu]
+SFX C 0 plic  [iu]
 SFX C 0 uplic [^iu]
 SFX C 0 ene/S [^i]
 SFX C 0 ene/S ri
@@ -140,8 +140,8 @@ SFX X r -/cd ar
 SFX X er -/cd er
 
 PFX n Y 2
-PFX n 0 ín
-PFX n 0 in
+PFX n 0 ín .
+PFX n 0 in .
 
 SFX B Y 4
 SFX B r  bil/AMN   [ai]r
@@ -175,9 +175,9 @@ SFX Q 0  tic/M  ma
 SFX Q a  0/M    ica
 
 SFX Z Y 5
-SFX Z r  tion [ai]r
-SFX Z er tion [aou]er
-SFX Z er ion  [stx]er
+SFX Z r  tion  [ai]r
+SFX Z er tion  [aou]er
+SFX Z er ion   [stx]er
 SFX Z der sion der
 SFX Z rer sion rer
 
@@ -219,8 +219,8 @@ SFX U 0 ette  [^eo]
 SFX U 0 ettes [^eo]
 
 SFX F Y 2
-SFX F 0 essa
-SFX F 0 essas
+SFX F 0 essa  .
+SFX F 0 essas .
 
 SFX J Y 4
 SFX J 0 in [^eéo]

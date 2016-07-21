@@ -1,4 +1,4 @@
-24500
+23000
 a
 ab
 abandon
@@ -440,6 +440,7 @@ afrancar/VZu
 Africa/K
 africa/cb
 afrigidar/VZ
+Afrikaans
 afrodisiac/S
 afrontar/VZ
 afronte/S
@@ -808,7 +809,7 @@ ampermetre/S
 amphibie/S!
 amphitheatre/S!
 ámphora/S!
-ampli/AEt
+ampli/AMEt
 amplificar/VZR
 amplitúde/S
 amplitúdine/S
@@ -2456,6 +2457,7 @@ boccia/!
 bock/S
 bodmeríar/V
 bodmeríe/S
+boer/S
 bogie/S!
 Bohemia
 bohemian/H
@@ -3921,6 +3923,7 @@ chucotada
 chucotage
 chuchotar/Vm
 chuette/S
+Churchill
 chuvo/S
 ci
 ciane
@@ -6070,6 +6073,7 @@ dervish/S
 des/a
 desabonnar/VZm
 desabonnate/S
+desacidisar/VZ
 desacord/S
 desacordar/V
 desacrar/VZR
@@ -8633,7 +8637,8 @@ franc/MSt
 franca
 francbagage/S
 France
-frances/AHS
+frances/HS
+francés/A
 francesisme
 Francia
 francis
@@ -14456,7 +14461,7 @@ nutar/VZO
 nutrage
 nutressa/S
 nutria/S
-nutrir/VZRXamuv
+nutrir/VZRXabmuv
 nutritional
 nympha/S!
 o
@@ -14867,6 +14872,8 @@ Oscar
 oscillar/VZOR
 osculation
 osmium
+osmosis
+osmotic
 ossage
 ossament/S
 ossarium/S
@@ -15132,6 +15139,7 @@ papilotte/S
 papirus/S
 papisme/T
 paprica
+Papua/S
 pápul/S
 papulosi
 papyre/S
@@ -15232,7 +15240,7 @@ parlamentar/VA
 parlamentarisme/T
 parlamentario/S
 parlamentero/S
-parlar/VZR
+parlar/VZRv
 parlatoria/S
 parluore/S
 Parnasse
@@ -16678,6 +16686,7 @@ presumptiosi
 presuporte/S
 presupposir/VZ
 pret
+pretar/V
 pretender/V
 pretension/S
 pretensiosi
@@ -17963,6 +17972,7 @@ resistentie/S
 resister/VRv
 resistibil
 resoluer/VZO
+resolut/M
 resonantie/S
 resonar/VZOR
 resorpter/VZ
@@ -20337,6 +20347,7 @@ sud/Qa
 Sudan
 sudanesi
 sudar/VZ
+sudoku/S
 sudore/S
 sudorific
 sudost/a
@@ -22537,7 +22548,7 @@ visual
 vita/S
 vital/t
 vitalisme/T
-vitamine/SQ
+vitamine/SQz
 Vitaphone
 vite/S
 vitelle/SJ

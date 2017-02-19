@@ -4267,6 +4267,7 @@ cocter/V
 coction/S
 cocú/S
 code/S
+codec/S!
 codeine
 codex/S
 codicille/S
@@ -7428,7 +7429,7 @@ eruditorum
 erupter/VBZOv
 erve/S!
 erysipel/!
-es
+es          st:esser
 esas
 escadre/S
 escadron/S
@@ -7862,10 +7863,10 @@ extorder/Vv
 extorsion/S
 extra/a
 extract/S
-extracter/VZO
+extracter/VZOR
 extradir/VBZOR
-extraer/V
-extraher/V
+extraer/V!
+extraher/V!
 extramundan/A
 extran/HAt
 extrania
@@ -8282,7 +8283,7 @@ filotechnica/Q!
 filoxera/S
 filpiscar/V
 filtrar/V
-filtre
+filtre/S
 filú/S
 filuore/S
 fin/AESs
@@ -11999,6 +12000,7 @@ laryngite/!
 lascar/S
 lasciv/t
 lascivon/S
+laser/Sb
 lash/S
 lass/At
 lassar/Vb
@@ -12311,7 +12313,6 @@ linoleum
 linon
 linotte/S
 linpéctine
-linque
 linse/S
 linsiform/A
 lintel/S
@@ -13633,6 +13634,7 @@ modellage/S
 modellar/VZR
 modellatri
 modellesc
+modem/S!
 moderar/VBZORv
 modern/At
 modernisar/VZ
@@ -16805,7 +16807,7 @@ procurse/S
 prodigaci
 prodigal/t
 prodigar/VZO
-prodigardS
+prodigard/S
 prodigie/S
 prodigiosi/M
 prodig/H
@@ -21499,6 +21501,7 @@ transscrir/VZ
 transsexualitá
 Transsilvania
 transsubstantiar/VZ
+transuranic
 Transvaal
 transvasar/V
 transversal/S
@@ -21789,6 +21792,7 @@ turbinar/V
 turbine/SXa
 turbinmachine/S
 turbopropulsori
+turbo/Xa
 turbot/S
 turbul
 turbulada

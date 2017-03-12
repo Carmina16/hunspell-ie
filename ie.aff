@@ -1,7 +1,7 @@
 # Occidental (Interlingue)
 # v0.6
 # 
-# Copyright 2015, 2016 Smirnova O. I.
+# Copyright 2015-2017 Smirnova O. I.
 # 
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -43,13 +43,16 @@ ICONV ﬂ fl
 ICONV œ oe
 ICONV æ ae
 
-REP 6
+REP 9
 REP á a
 REP á à
-REP ín ^in
-REP ín ^ne
-REP men li$
-REP isme ism$
+REP ^in ín
+REP ^ne ín
+REP li$ men
+REP ism$ isme
+REP l' li
+REP ľ li
+REP n' ng
 
 MAP 7
 MAP aá(a')
@@ -99,17 +102,18 @@ SFX H o as o
 
 SFX M Y 2
 SFX M 0 men  .
-SFX M 0 imen [^i]
+SFX M 0 imen [^ic]
 
 SFX S Y 3
 SFX S 0 s  [aeioucgkmáéíóú]
 SFX S 0 es [^aeiouáíóú]
 SFX S 0 e  [^aeiouáéíóú]
 
-SFX V Y 8
+SFX V Y 9
+SFX V r 0/d    r
 SFX V r 0/d    r
 SFX V r t/HMN  r
-SFX V r s r		# §87
+SFX V r s r
 SFX V r nt/HMN  [^i]r
 SFX V r ent/HMN ir
 SFX V r ye     r
@@ -163,9 +167,10 @@ SFX T m  te  sm
 SFX T m  tes sm
 SFX T m  tic/M sm
 
-SFX Q Y 9
+SFX Q Y 10
 SFX Q 0  ic/M   [^aeox]
 SFX Q e  c/M    ie
+SFX Q a  c/Mp   ia
 SFX Q e  ic/M   [^si]e
 SFX Q o  ic/M   o
 SFX Q se tic/M  [^s]se
@@ -218,9 +223,11 @@ SFX U o ettes o
 SFX U 0 ette  [^eo]
 SFX U 0 ettes [^eo]
 
-SFX F Y 2
-SFX F 0 essa  .
-SFX F 0 essas .
+SFX F Y 4
+SFX F 0 ssa   e
+SFX F 0 ssas  e
+SFX F 0 essa  [^e]
+SFX F 0 essas [^e]
 
 SFX J Y 4
 SFX J 0 in [^eéo]
@@ -257,15 +264,17 @@ PFX p Y y Y
 PFX p Z z Z
 
 SFX K Y 2
-SFX K 0 n/pAH  a
-SFX K 0 an/pAH [^a]
+SFX K 0 n/pAHb  a
+SFX K 0 an/pAHb [^a]
 
-SFX k Y 5
-SFX k 0 s/pAH  e
-SFX k a es/pAH a
-SFX k a és/p   a
-SFX k 0 es/pAH [^ae]
-SFX k 0 és/p   [^ae]
+SFX k Y 7
+SFX k 0  s/pAHb  e
+SFX k ia es/pAHb ia
+SFX k ia és/pb   ia
+SFX k a  es/pAHb [^i]a
+SFX k a  és/pb   [^i]a
+SFX k 0  es/pAHb [^ae]
+SFX k 0  és/pb   [^ae]
 
 SFX g Y 5
 SFX g r  ge/S  ar
@@ -308,6 +317,10 @@ SFX w der siv/MS der
 SFX w rer siv/MS rer
 SFX w er  iv/MS  [^draou]er
 SFX w er  tiv/MS [aou]er
+
+SFX y Y 2
+SFX y ia o-/pacd ia
+SFX y e  o-/pacd e
 
 SFX z Y 5
 SFX z 0 osi/A [^aáeo]

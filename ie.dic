@@ -1,4 +1,4 @@
-22912
+22891
 a
 ab
 abandon
@@ -174,12 +174,10 @@ acidificar/VZ
 aciecar/V
 aclamar/VZOR
 aclarar/VZO
-aclimatabil
-aclimatar/VZ
+aclimatar/VZB
 aclimatisar/VZ
-acommodar/VZO
-acomodabil
-acomodar/VZO
+acommodar/VZOB
+acomodar/VZOB
 acompanar/V
 acompaniar/VRm
 acompaniment/S
@@ -196,8 +194,7 @@ acordantie
 acordar/VBZORmb
 acordeon/S
 acordeonist/S
-acostabil
-acostar/Vg
+acostar/VBg
 acostear/V
 acotiledon/S
 acquisiter/VZv
@@ -707,7 +704,7 @@ aluentie
 aluer/V
 aluminator/S
 aluminette/S
-aluminisat
+aluminisar/VZ
 aluminium
 alun/S
 aluvie/L
@@ -827,19 +824,17 @@ anagramma/S
 anal
 analfabete/QS
 analfabetisme
-analisabil
-analisar/VR
-analise/S
-analitic/H
-analitisme
+analis/S
+analisar/VRB
+analitic/HM
+analitism/S
 analog/S
 analogie/S
 analphabete/!
-analys/S
-analysar/VR!
-analyse/S!
-analytic
-analytism
+analys/S!
+analysar/VRB!
+analytic/HM!
+analytism/S!
 ananas/S
 anapeste/S
 anarchie/Q
@@ -1208,7 +1203,6 @@ aprobar/VZOv
 aprofundar/VZm
 apropó
 apropriar/VZO
-aprotat
 aprovisionar/Vm
 aproximar/VZv
 apside/S
@@ -1583,7 +1577,7 @@ astutard/S
 astutia
 astutie
 astuto/H
-asurdat
+asurdar/V
 a-ta
 ATA
 atacar/VBR!
@@ -1670,9 +1664,7 @@ atterrar/V
 atterrer/V
 attestabil
 attestar/VZO
-attestat/S
-attic
-attica
+attica/Q
 atticisme
 attinar/V
 attinger/Vm
@@ -1745,7 +1737,7 @@ autocrat/SQ
 autocratie
 autocton/SH
 autodafé/S
-autodeterminat
+autodeterminar/VZ
 autodidact/SQ
 autodidactie
 autodrom/S
@@ -1914,7 +1906,7 @@ balaláica/S
 balanciar/Vm
 balancie/S
 balansar/V
-balanse/V
+balanse/S
 balansuore/S
 balast/S!
 balation
@@ -2195,7 +2187,7 @@ beneficiar/V
 beneficiario/H
 beneficie/S
 benehavent/H
-benemerit
+benemerit/A
 benessere/S
 benevenir/V
 benevolentie
@@ -2453,7 +2445,7 @@ bollientar/VMb
 bolliere/S
 bollior
 bollir/VZ
-bolluore/М
+bolluore/M
 Bologna
 bolognes/AH
 bolt/S
@@ -2753,7 +2745,7 @@ buduore/S
 bufet/S
 bufetero/S
 buffa/S
-buffete/S
+buffet/S
 buffetero/S
 buffle/H
 buffon/S
@@ -3189,7 +3181,6 @@ capillar/SAu
 capillut
 capir/V
 capistrap/S
-capit
 capital/S
 capitalia/S
 capitalisar/VZ
@@ -3236,7 +3227,7 @@ capter/VRZO
 captibil
 captiv/ASt
 captivar/V
-captuore/V
+captuore/S
 capturar/V
 capuce/S
 capucine/H
@@ -3911,7 +3902,7 @@ cianette/S
 cianogen
 cianura
 cibernética/Q
-cibet
+cibet/S
 cible/S
 cicade/S
 cicatre/S
@@ -4019,7 +4010,7 @@ circumligar/V
 circumlocution/S
 circumnavigar/V
 circumnutation/S
-circumplectet
+circumplecter/V
 circumplugar/V
 circumpresser/V
 circumregardar/V
@@ -4030,7 +4021,7 @@ circumspecter/VZO
 circumstantie/S
 circumtastar/V
 circumvasion/S
-circumvindat
+circumvindar/V
 circumvolar/V
 circumvolution/S
 cire/S
@@ -4152,10 +4143,9 @@ clinic/SM
 clinica/SL
 Clinton
 clípper/S
-clique/S
+clique/SU
 cliquet/S
 cliquettar/V
-cliquette/S
 clise/S
 clistere/S
 clitoris
@@ -4196,7 +4186,7 @@ cnidocilie/S
 co/a
 coacada
 coacar/V
-coactet
+coacter/V
 coagular/VZR
 coagulativ/S
 coalescer/V
@@ -4434,7 +4424,6 @@ comissionario/S
 comitato/S
 comité/S
 comitées
-comitet
 comma/S
 commandante/S
 commandar/Vm
@@ -4730,7 +4719,7 @@ conlaborar/V
 conligar/V
 conmanjante/S
 conmetter/V
-conmixtet
+conmixter/V
 connecter/SVZOb!
 Connecticut
 connection/S!
@@ -4739,14 +4728,13 @@ connexer/VZOv!
 connivent
 conniventiar/V
 conniventie/S
-connosentie
 connossentar/VZ
-connossentie/S
-connosser/VH
+connossentie/SN
+connosser/VSBbm
 conoid/S
 conómine/S
 conoperativ
-conossentar/V
+conossentar/VZ
 conossentie/SN
 conosser/VSBbm
 conossero/S
@@ -4766,7 +4754,6 @@ conrular/V
 consacrabil
 consacrar/VZOR
 consanguin/t
-conscie
 conscientie/S
 conscientiosi/M
 conscier/V
@@ -4785,16 +4772,12 @@ conservar/VZ
 conservatism/S
 conservatistic/M
 conservativ/S
-conservativisme
 conservator/MSA
 conservatoria/S
 conserve/S
-considerabil/M
 considerar/VZOBb
-consignabil
-consignar/VZORm
+consignar/VZORBm
 consignatario/S
-consiliabil
 consiliar/VRB
 consilie/S
 consiliero/S
@@ -5174,8 +5157,7 @@ cosmonaute/S
 cosmopole
 cosmopolit/SQ
 cosmopolitisme
-costa/S
-costal
+costa/SL
 Costa-Rica
 costarican/AH
 costat
@@ -5290,7 +5272,7 @@ cri/S
 criachar/V
 criada/S
 crialliar/V
-criallieríe/V
+criallieríe/S
 criar/V
 criard/S
 criarderíe
@@ -5345,7 +5327,6 @@ Cristina
 Cristmas
 Crist-nascentie/S
 Cristo/Xa
-crit
 criterie/S
 critic/HLb
 criticachar/V
@@ -5431,7 +5412,7 @@ cu
 cub/SQ
 Cuba
 cuban/H
-cubatura/V
+cubatura/S
 cubisme/ST
 cúbital
 cúbite/S
@@ -7717,7 +7698,7 @@ exegese/SQ
 exellent
 exemplar/ASQt
 exemple/S
-exemplificar/V
+exemplificar/VZO
 exempt/AS
 exempter/V
 exemption/S
@@ -8036,7 +8017,7 @@ farsero/S
 faruch/AM
 fasan/H
 fasanería/S
-fasaniera/V
+fasaniera/S
 fasce/S
 fascette/S
 fascie/S
@@ -8441,7 +8422,7 @@ focctoppsegle/S
 foccyard/S
 Focidia
 foco/S
-foderale/V
+foderale/S
 foderar/V
 fódere/S
 foehn
@@ -13512,7 +13493,7 @@ mirabelle/S
 miracul/S
 miraculos/AM
 mirar/VBg
-mire/VS
+mire/S
 Mirelle
 miria
 miriade/S
@@ -13639,9 +13620,9 @@ mocassine/S
 mocca
 Möckli
 mocnómine/S
-moda/SQ
+moda/S
 modalitá/S
-mode/SL
+mode/SLQ
 modell/SQ
 modellage/S
 modellar/VZR
@@ -15328,7 +15309,7 @@ pasment/S
 pasmentar/V
 pasmentería/S
 pasmenteríe
-pasmentero/V
+pasmentero/S
 pasodoble
 pasquill/S
 pasquin
@@ -15347,8 +15328,9 @@ passionar/Vb
 passiv/SMt
 passment/S
 passmentar/V
+passmentería/S
 passmenteríe
-passmentero/V
+passmentero/S
 passport/S
 passu/S
 passuar/V
@@ -16563,7 +16545,8 @@ preavo/S
 prebendario/S
 prebende/S
 precalcular/V
-precar/VAvt
+precar/VAt
+precativ/AS
 precaution/S
 precedent/MS
 precedentie/S
@@ -16581,7 +16564,7 @@ precipue
 precis/AMEt
 preciser/VZO
 precoci/t
-precocinat
+precocinar/V
 precompra
 precondition/S
 preconossentie/S
@@ -16621,7 +16604,7 @@ prehistoriane/S
 prehistorie/Q
 preinfluentie/S
 preinfluer/V
-preingageat
+preingagear/V
 prejudicar/Vm
 prejudice/S
 prejudiciar/V
@@ -16634,7 +16617,7 @@ preluder/V
 preludiar/V
 preludie/S
 prematur/t
-prematurat
+prematurar/V
 premeditar/VZ
 premiar/VZ
 premidí
@@ -16704,7 +16687,7 @@ presumption/S
 presumptiosi
 presuporte/S
 presupposir/VZ
-pret
+pret/A
 pretar/V
 pretender/V
 pretension/S
@@ -16861,9 +16844,8 @@ profilar/V
 profilaxie/S
 profilist/S
 profit/Sz
-profitabil
 profitaci
-profitar/V
+profitar/VB
 profitor/S
 profund/MNE
 profundage
@@ -16889,7 +16871,6 @@ project/S
 projecter/VRZOv
 projectil/S
 projectist/S
-projetat
 prolegomen/S
 prolepse/S
 prolet/AS
@@ -16978,10 +16959,9 @@ prosodie/SQ
 prosopé/S
 prospect/S
 prospector/S
-prósper/SA!
 prosper/SAt
-prosperabil
-prosperar/V
+prósper/SAt!
+prosperar/VB
 prostata/S
 prostatic
 prosternar/VZ
@@ -17248,7 +17228,7 @@ quadrati
 quadratico/S
 quadratura/S
 quadre/SU
-quadren/V
+quadren/S
 quadrennial/AS
 quadri/ac
 quadriform/A
@@ -19245,7 +19225,7 @@ servitute/S
 servo/S
 servut
 sesam
-seson/S
+seson/SL
 session/S
 sessor/S
 sestra/S
@@ -20120,7 +20100,7 @@ strapacie/Sz
 strapade
 strapería/S
 straperíe
-strapero/V
+strapero/S
 stratagema/S
 stratallia
 strate/S
@@ -20172,7 +20152,6 @@ strumpcalsone/S
 strumperie
 strumpette/S
 strumplace
-stucca/V
 stuccar/VZR
 stuccatura/S
 studente/S
@@ -20360,7 +20339,7 @@ sucragero/S
 sucrar/V
 sucre/SJz
 sucrecube/S
-sucrería/V
+sucrería/S
 sucreríe/S
 sucrero/S
 sucriera/S

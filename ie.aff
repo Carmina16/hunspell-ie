@@ -43,16 +43,15 @@ ICONV ﬂ fl
 ICONV œ oe
 ICONV æ ae
 
-REP 9
+REP 8
 REP á a
 REP á à
-REP ^in ín
-REP ^ne ín
-REP li$ men
-REP ism$ isme
-REP l' li
-REP ľ li
-REP n' ng
+REP ín ^in
+REP ín ^ne
+REP men li$
+REP isme ism$
+REP li l'
+REP li ľ
 
 MAP 7
 MAP aá(a')
@@ -109,9 +108,10 @@ SFX S 0 s  [aeioucgkmáéíóú]
 SFX S 0 es [^aeiouáíóú]
 SFX S 0 e  [^aeiouáéíóú]
 
-SFX V Y 9
+SFX V Y 10
 SFX V r 0/d    r
 SFX V r 0/d    r
+SFX V r t      r
 SFX V r t/HMN  r
 SFX V r s r
 SFX V r nt/HMN  [^i]r
@@ -181,7 +181,7 @@ SFX Q a  0/M    ica
 
 SFX Z Y 5
 SFX Z r  tion  [ai]r
-SFX Z er tion  [aou]er
+SFX Z er tion  [aeou]er
 SFX Z er ion   [stx]er
 SFX Z der sion der
 SFX Z rer sion rer

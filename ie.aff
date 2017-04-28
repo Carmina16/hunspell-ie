@@ -33,6 +33,7 @@ COMPOUNDBEGIN a
 COMPOUNDEND b
 ONLYINCOMPOUND c
 COMPOUNDPERMITFLAG d
+WARN ?
 
 ICONV 7
 ICONV à á
@@ -43,15 +44,16 @@ ICONV ﬂ fl
 ICONV œ oe
 ICONV æ ae
 
-REP 8
-REP á a
-REP á à
-REP ín ^in
-REP ín ^ne
-REP men li$
-REP isme ism$
-REP li l'
-REP li ľ
+REP 9
+REP a á
+REP à á
+REP ^in ín 
+REP ^ne ín
+REP li$ men
+REP ism$ isme
+REP l' li
+REP ľ li
+REP ^l' li_
 
 MAP 7
 MAP aá(a')
@@ -60,10 +62,11 @@ MAP iíy
 MAP oó
 MAP uú
 MAP t(th)
-MAP c(ch)k
+MAP c(ch)k(qu)
 
-PFX N Y 4
-PFX N 0 ín .
+PFX N Y 5
+PFX N 0 ín [^í]
+PFX N 0 ín í[^n]
 PFX N 0 im [mbp]
 PFX N 0 il l
 PFX N 0 ir r
@@ -108,10 +111,8 @@ SFX S 0 s  [aeioucgkmáéíóú]
 SFX S 0 es [^aeiouáíóú]
 SFX S 0 e  [^aeiouáéíóú]
 
-SFX V Y 10
+SFX V Y 8
 SFX V r 0/d    r
-SFX V r 0/d    r
-SFX V r t      r
 SFX V r t/HMN  r
 SFX V r s r
 SFX V r nt/HMN  [^i]r
@@ -121,7 +122,7 @@ SFX V r nd/AS  [^i]r
 SFX V r end/AS ir
 
 SFX C Y 9
-SFX C 0 i ant   i
+SFX C i ant   i
 SFX C 0 esim/MS [^i]
 SFX C 0 esim/MS ri
 SFX C i esim/MS ci
